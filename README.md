@@ -3,7 +3,7 @@
 
 - 🔭 Working on some personal projects
 
-- 🌱 Learning Algorithms, Data Structures and Vim
+- 🌱 Learning OOP and Web Development
 
 - 📫 Feel free to contact me: **me@darkh.app**
 
