@@ -3,7 +3,7 @@
 
 - 🔭 Working on some personal projects
 
-- 🌱 Learning OOP and Web Development
+- 🌱 Learning GO, C++, SQL and Mobile Development (Kotlin/Swift)
 
 - 📫 Feel free to contact me: **me@darkh.app**
 
