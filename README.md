@@ -3,7 +3,7 @@
 
 - 🔭 Working on some personal projects
 
-- 🌱 Learning GO, C++, SQL and Mobile Development (Kotlin/Swift)
+- 🌱 Learning MongoDB, Express, Angular and Node
 
 - 📫 Feel free to contact me: **me@darkh.app**
 
