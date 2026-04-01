@@ -9,7 +9,7 @@
 - ☸️ Kubernetes, Helm, ArgoCD & C# .NET day-to-day
 - 🖥️ homelab enthusiast; unraid, k3s, self-hosted everything
 - 🎮 maintaining roblox games on the side
-- 🏂 avid snowboarding anime enjoyer
+- 🏂 avid snowboarder / anime enjoyer
 - ✉️ any pronouns; me@darkh.app
 
 <p>
